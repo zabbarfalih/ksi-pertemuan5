@@ -1,4 +1,4 @@
-// Vigènere Cipher (Mempertahankan Kapital Aslinya)
+// Vigènere Cipher
 $(document).ready(function () {
   function vigenereEncrypt(plaintext, key) {
     let encryptedText = "";
