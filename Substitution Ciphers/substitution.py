@@ -18,8 +18,8 @@ def decrypt(encrypted_text, shift):
     return encrypt(encrypted_text, -shift)
 
 # Contoh penggunaan
-text = "Hello World!"
-shift = 3
+text = "Muhammad Zabbar Falihin!"
+shift = 4
 
 encrypted_text = encrypt(text, shift)
 print("Encrypted Text:", encrypted_text)
